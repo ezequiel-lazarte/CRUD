@@ -1,0 +1,1 @@
+en la consola ponemos "yarn add uniqid" esto nos instala uniqid y para bootstrap ponemos "yarn add bootstrap".
